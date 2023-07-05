@@ -1,0 +1,4 @@
+:-  %say
+|=  *
+:-  %noun
+"hello world"
